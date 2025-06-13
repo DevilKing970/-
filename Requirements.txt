@@ -1,0 +1,6 @@
+/your-bot-repo
+  ├── bot.py               # Your main bot code
+  ├── requirements.txt
+  ├── README.md
+  ├── .gitignore
+  └── config_example.py    # Example config template (no real secrets)
